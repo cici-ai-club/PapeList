@@ -1,2 +1,6 @@
-STAT: Spatial-Temporal Attention Mechanism
-for Video Captioning (https://ieeexplore-ieee-org.ezproxy.uky.edu/stamp/stamp.jsp?tp=&arnumber=8744407&tag=1)
+STAT: Spatial-Temporal Attention Mechanism for Video Captioning (https://ieeexplore-ieee-org.ezproxy.uky.edu/stamp/stamp.jsp?tp=&arnumber=8744407&tag=1)
+SibNet: Sibling Convolutional Encoder for Video Captioning(https://assets.ctfassets.net/btheynltg5cn/6bgJ30w7u0ZXx4KellsqiB/f13338cbb60ca1fc3aced401c17bb210/SibNet-_Sibling_Convolutional_Encoder_for_Video_Captioning.pdf)
+Multi-task video captioning with video and entailment generation (https://arxiv.org/pdf/1704.07489.pdf)
+Reconstruction Network for Video Captioning (https://arxiv.org/pdf/1803.11438.pdf)
+Weakly supervised dense video captioning(https://arxiv.org/pdf/1704.01502.pdf)
+Attention-Based Multimodal Fusion for Video Description(https://openaccess.thecvf.com/content_iccv_2017/html/Hori_Attention-Based_Multimodal_Fusion_ICCV_2017_paper.html)
